@@ -1,1 +1,1 @@
-worker: python slowloris.py
+worker: python slowloris.py autoskillz.net -ua
